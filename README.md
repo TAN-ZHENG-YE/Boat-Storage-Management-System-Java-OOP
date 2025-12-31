@@ -1,11 +1,7 @@
 # Boat Storage Management System
 
 ## Project Overview
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+
 **Boat Storage Management System** is a Java Swing-based GUI application that manages boat storage facilities on the north side of Pulau Langkawi. The system handles boat owners, sailboats, and motorboats, automatically calculating monthly storage charges, levies, and generating comprehensive reports.
 
 This application demonstrates key object-oriented programming principles including:
@@ -16,6 +12,11 @@ This application demonstrates key object-oriented programming principles includi
 - **Serialization** (persistent data storage)
 - **GUI Design** (Swing components with tabbed interface)
 
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 ---
 
 ## System Features
