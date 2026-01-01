@@ -297,7 +297,7 @@ java assignment1.BoatStorageGUI
 ---
 
 ## Sample Usage Workflow 
-*Refer UserManual.docx for full details*
+*Refer UserManual.pdf for full details*
 1. **Launch Application**: Run `BoatStorageGUI.jar`
 2. **Add First Owner**: 
    - Go to Owners tab
